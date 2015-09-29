@@ -1,0 +1,3 @@
+app_load error_test.aplx all 1-16 16
+sleep
+app_sig all 16 sync0
